@@ -118,5 +118,5 @@ StudentManagementSystem/
 ## 👨‍💻 Author
 
 **Uday**
-- GitHub: [@theworldofuday](https://github.com/theworldofuday)
+- GitHub: [@udaymankar](https://github.com/udaymankar)
 
